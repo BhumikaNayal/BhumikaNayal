@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 6c70e9a177aac32a5463fb88dcd0dffc5ac7b1df
 <h1 align="center">Hi 👋, I'm Bhumika Nayal</h1>
 <h3 align="center">A passionate Full -Stack Developer from India</h3>
 
