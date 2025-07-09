@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Bhumika Nayal</h1>
-<h3 align="center">A passionate Full -Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack  Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikanayal&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikanayal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumikanayal" alt="bhumikanayal" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack**
+- 🌱 I’m currently learning **Full-Stack & DevOps **
 
 - 📫 How to reach me **bhumikanayal13@gmail.com**
 
